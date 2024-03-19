@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation{
+    height: 75px;
+    background-color: rgb(48, 136, 230);
+    
+}
+
+.content{
+    height: 50px;;
+    background-color:rgb(15, 175, 130);
+    /* margin: 0px 20px; */
+}
+
+.footer{
+    height: 50px;
+    background-color: red;
+    /* margin: 0px 50px; */
+}

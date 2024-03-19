@@ -1,0 +1,11 @@
+.max-width-1{
+    max-width: 1265px;
+}
+.max-width-2{
+    max-width:1000px;
+}
+.m-auto{
+    /* margin-left: 40px;
+    align-items: center; */
+    margin: auto;
+}
